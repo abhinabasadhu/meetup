@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/abhinabasadhu/mettup.git/static/css/main.a2e49bb7.chunk.css",
+    "main.js": "/abhinabasadhu/mettup.git/static/js/main.24a1c654.chunk.js",
+    "main.js.map": "/abhinabasadhu/mettup.git/static/js/main.24a1c654.chunk.js.map",
+    "runtime-main.js": "/abhinabasadhu/mettup.git/static/js/runtime-main.1cba14f0.js",
+    "runtime-main.js.map": "/abhinabasadhu/mettup.git/static/js/runtime-main.1cba14f0.js.map",
+    "static/js/2.463ccafd.chunk.js": "/abhinabasadhu/mettup.git/static/js/2.463ccafd.chunk.js",
+    "static/js/2.463ccafd.chunk.js.map": "/abhinabasadhu/mettup.git/static/js/2.463ccafd.chunk.js.map",
+    "index.html": "/abhinabasadhu/mettup.git/index.html",
+    "static/css/main.a2e49bb7.chunk.css.map": "/abhinabasadhu/mettup.git/static/css/main.a2e49bb7.chunk.css.map",
+    "static/js/2.463ccafd.chunk.js.LICENSE.txt": "/abhinabasadhu/mettup.git/static/js/2.463ccafd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cba14f0.js",
+    "static/js/2.463ccafd.chunk.js",
+    "static/css/main.a2e49bb7.chunk.css",
+    "static/js/main.24a1c654.chunk.js"
+  ]
+}
